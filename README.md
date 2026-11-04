@@ -43,8 +43,6 @@
 
 ---
 
-## 👾 Pac-Man Contribution Journey
-
 <div align="center">
 
 ### Let's eat some contributions! 
