@@ -49,7 +49,7 @@
 
 ### Let's eat some contributions! 
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Arshin-Shaikh/Arshin-Shaikh/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
 
 </div>
 
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Arshin-Shaikh">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -77,6 +77,6 @@
 
 *Every expert was once a beginner.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Arshin-Shaikh&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" />
 
 </div>
